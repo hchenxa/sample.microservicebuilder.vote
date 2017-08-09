@@ -171,5 +171,3 @@ spec:
           items:
             - key: keystore.xml
               path: defaults/keystore.xml
-            - key: logging.xml
-              path: defaults/logging.xml
